@@ -1,2 +1,2 @@
 # barba
-Página comercial para aprendizagem 
+Pagina comercial para aprendizagem.
